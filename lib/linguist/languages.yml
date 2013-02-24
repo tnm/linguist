@@ -1231,6 +1231,10 @@ Textile:
   extensions:
   - .textile
 
+TOML:
+  type: data
+  primary_extension: .toml
+
 Turing:
   type: programming
   color: "#45f715"

@@ -1188,6 +1188,10 @@ SuperCollider:
   lexer: Text only
   primary_extension: .sc
 
+TOML:
+  type: data
+  primary_extension: .toml
+
 Tcl:
   type: programming
   color: "#e4cc98"
@@ -1230,10 +1234,6 @@ Textile:
   primary_extension: .textile
   extensions:
   - .textile
-
-TOML:
-  type: data
-  primary_extension: .toml
 
 Turing:
   type: programming
